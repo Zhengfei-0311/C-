@@ -1,8 +1,9 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
+
+
 int main(){
-
-
-    cout << sizeof(long double) << endl;
+    sring a("zhengfei");
 }
